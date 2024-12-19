@@ -1,6 +1,6 @@
 ## Aoba Athams aqui🤠
 
-- Faço Ciência da computação na UNIVASF
+- Faço Ciência da Computação na UNIVASF
 - Analista de dados
 - programador Back-end
 
