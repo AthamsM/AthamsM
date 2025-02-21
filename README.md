@@ -2,7 +2,7 @@
 
 - Faço Ciência da Computação na UNIVASF
 - Analista de dados
-- Programador Back-end
+- Programador Full-Stack
 
 
 <h3>Ferramentas de uso frequente:</h3>
