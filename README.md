@@ -15,7 +15,6 @@
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-
 <h3>Contatos</h3>
 <div style="display: inline_block">
   &nbsp;
@@ -26,6 +25,9 @@
   <a href="mailto:athamsmenezes@gmail.com" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="40" alt="Logo do Gmail"/>
   </a>
+</div><br/>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=AthamsM&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthamsM&layout=compact&langs_count=16&theme=holi"/>
 </div>
-
-
