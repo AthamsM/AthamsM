@@ -27,3 +27,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="40" alt="Logo do Gmail"/>
   </a>
 </div>
+
+<!--
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=AthamsM&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthamsM&layout=compact&langs_count=16&thema=jolly"/>
+</div>
+-->
