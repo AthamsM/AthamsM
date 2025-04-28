@@ -4,6 +4,11 @@
 - Analista de dados
 - Programador Full-Stack
 
+<h3>Meu portfolio:</h3>
+<a href="https://athamsm.github.io/MeuPortfolio/" target="_blank" >
+  <img src="https://piskel-imgstore-b.appspot.com/img/23e68d21-2480-11f0-b887-e14178deb1bc.gif" width="64" height="64"  alt="Logo do LinkedIn"/>
+</a>
+
 
 <h3>Ferramentas de uso frequente:</h3>
 <div style="display: inline_block">
