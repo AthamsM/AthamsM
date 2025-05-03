@@ -30,4 +30,7 @@
   </a>
 </div><br/>
 
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=AthamsM&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthamsM&layout=compact&langs_count=16&theme=github_dark"/>
+</div>
