@@ -21,7 +21,7 @@
 <div style="display: inline_block">
   &nbsp;
   <a href="https://athamsm.github.io/MeuPortfolio/" target="_blank" >
-    <img src="https://piskel-imgstore-b.appspot.com/img/e21be4ba-2486-11f0-a67a-e14178deb1bc.gif" width="30" height="30"  alt="Logo do LinkedIn" title="Portfólio"/>
+    <img src="https://github.com/user-attachments/assets/1d7390cd-138a-40fd-8dca-54a951bdbd62" width="30" height="30"  alt="Portfolio" title="Portfólio"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/athams-337346274/" target="_blank" >
