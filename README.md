@@ -1,8 +1,7 @@
 ## Aoba Athams aqui🤠
 
 - Faço Ciência da Computação na UNIVASF
-- Analista de dados
-- Programador Full-Stack
+- Desenvolvedor Full-Stack
 
 <h3>Ferramentas de uso frequente:</h3>
 <div style="display: inline_block">
